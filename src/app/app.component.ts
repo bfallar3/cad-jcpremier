@@ -31,4 +31,11 @@ export class AppComponent {
   goNinjaion() {
     window.location.href = "http://www.ninjaph.com/cpshop/1111534896";
   }
+  goShopForMe() {
+    window.location.href = "https://toktok.ph/pabiliservice/1111534896";
+  }
+
+  goJcShop() {
+    window.location.href = "https://jcshop.ph/1111534896";
+  }
 }
